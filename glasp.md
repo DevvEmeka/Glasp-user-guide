@@ -1,0 +1,8 @@
+# Maximise Your Productivity With Glasp: A Beginner’s Guide to Using Glasp
+As we read content online for research, study, or casual reading, we read people’s stories, learn from them, and get inspired. These findings from our online experience equip us with knowledge. But sometimes, it could be working in futility since we can easily lose touch with this knowledge or the stories that inspired us. And this is where I introduce Glasp, a social web highlighter that has perfected ways to transform people’s online experience.
+
+Glasp is a productivity app for writers, students, avid readers, and researchers. It gives you the creative freedom to highlight ideas and text in an organised manner so your followers can easily connect with you in real-time through available, visually appealing quotes. Glasp helps you highlight and organise information, then collates them onto your Glasp homepage. You can share your highlights across social media platforms, adding more meaning to your articles or online content. 
+
+## What Is Glasp?
+Glasp is a social web highlighter that lets you capture online content in a variety of colours, which is then curated to your homepage. With Glasp, you can recapture your highlighted text, search, make notes alongside, and take a quote shot that you can share across other platforms like Twitter, Teams, Slack, and other note-taking applications.
+You can add a tag to your highlighted quote using the add tag feature to give each highlight more meaning and context. The add tag feature has a well-functioning sidebar where you can add your thoughts and findings and leave a note alongside the captured quote.
