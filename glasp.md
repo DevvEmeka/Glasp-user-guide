@@ -1,6 +1,6 @@
 # `Maximise Your Productivity With Glasp: A Beginner’s Guide to Using Glasp`
 
-## `Table of Content`
+### `Table of Contents`
 
 [What Is Glasp?](#what-is-glasp)
 
