@@ -63,10 +63,10 @@ You can add a tag to your highlighted quote using the add tag feature to give ea
 Using Glasp provides many benefits, some of which are highlighted below.
 
 ### `Become a Knowledge Curator`
-Glasp as a tool provides an environment where you can highlight knowledge that piques your interest, and these highlights are curated automatically to your Glasp homepage. With Glasp, you can organise ideas, research, quotes, and inspiration on its homepage and use this curated knowledge to spark your creativity.
+Glasp as a tool provides an environment where you can highlight contents that piques your interest, and these highlights are curated automatically to your Glasp homepage. With Glasp, you can organise ideas, research, quotes, and inspiration on its homepage and use this curated knowledge to spark your creativity.
 
 ### `Enhance Online Learning`
-Whether you are an avid reader, student, researcher, or just browsing the web searching for information, Glasp has got you covered. Glasp is the best tool to curate knowledge while enjoying online content without distractions; like going to a note-taking app to jot down points or ideas. All you have to do is drag your cursor over the piece of text you want to capture, save it, and get the captured text resurfaced at your convenience.
+Whether you are an avid reader, student, researcher, or just browsing the web searching for information, Glasp has got you covered. Glasp is the best tool to curate knowledge while enjoying online content without distractions, like going to a note-taking app to jot down points or ideas. All you have to do is drag your cursor over the piece of text you want to capture, save it, and get the captured text resurfaced at your convenience.
 
 ### `Amplifies Content Reach`
 Glasp is like a knowledge box for your online content. It allows you to leverage social media by sharing what you learned, fostering engagement with your post, and motivating your followers through the knowledge you gained from reading or watching online content. It also allows you to keep notes alongside the captured text and use them on your projects and articles or share them on various social media platforms.
@@ -75,7 +75,7 @@ Glasp is like a knowledge box for your online content. It allows you to leverage
 Glasp will transform your learning habits and how you approach information gathering. It eases your learning process and removes the burden of remembering every fact and figure you find online. You can use Glasp's hit map for capturing to keep track of your activities and the knowledge you’ve gathered over a period. You derive pleasure when you log in every day to read topics tailored for you, connect with a community of thinkers, and stay motivated and productive at the same time.
 
 ### `Transform Your Research Experience`
-You can trust Glasp to aid your research process and you won't be disappointed. Writing a research paper or an article requires that you cite your sources. As you research and read resources online, Glasp will help you organise your findings and what you have learned so you can get back to them later. It takes your mind off how to organize your research findings and keeps you focused on reading and finding information.
+You can trust Glasp to aid your research process and you won't be disappointed. Writing a research paper or an article requires that you cite your sources. As you research and read articles online, Glasp will help you organise your findings and what you have learned so you can get back to them later. It takes your mind off how to organize your research findings and keeps you focused on reading and finding information.
 
 ### `Connect and Share Quotes With Like-Minds`
 Glasp will keep you updated with trends and topics that interest you. When you sign up, you can choose up to ten topics of growth, industry, and career you wish to follow. The highlights from your mutuals will be delivered on your account homepage in a user-friendly manner, allowing you to learn from other knowledge curators. It also comes with some social elements, as you can connect with like-minded people by following each other and sharing knowledge.
@@ -116,7 +116,7 @@ The user profile houses the accounts you follow, those that follow you, and the 
 ![image 5](./assets/Untitled-2023-02-22-20064.png)
 
 ### `Heat Map` 
-The heat map shows your highlights across different platforms over time. It helps you track how active you are in learning and curating content. It shows the number of people who viewed your highlight, your number of highlights, and the pages you've highlighted. The green square represents your highlights over some time. Clicking on any of the green squares will redirect you to the highlight.
+The heat map shows your highlights across different platforms over time. It helps you track how active you are in learning and curating content. It shows the number of people who viewed your highlight, your number of highlights, and the pages you've highlighted. The green square represents your highlights over time. Clicking on any of the green squares will redirect you to the highlight.
 ![image 6](./assets/Untitled-2023-02-22-20066.png)
 
 ### `Tags` 
@@ -149,7 +149,7 @@ The Highlight Tab comprises features like `Pages`, `Author`, `Articles`, `Favour
 
 **Articles:** The Article tab shows all the highlights, articles, links, and tags.
 
-**Favourite:** It shows your favourite highlights. You can favourite a highlight. by using the star icon at the top right corner.  
+**Favourite:** It shows your favourite highlights. You can favourite a highlight by using the star icon at the top right corner.  
 
 **Saved:** This tab is where you save highlights of your friends, people you follow, or  like-minded people.
 
@@ -167,7 +167,7 @@ Adding a highlight to your favourites will help you keep in touch with content y
 ![image 11](./assets/Untitled-2023-02-22-200612.png)
 
 ### `Copy Your Highlights`
-You can copy highlights and paste them on note-taking applications and other platforms. To copy highlights, take the following steps:
+You can copy highlights and paste them into a note-taking applications and other platforms. To copy highlights, take the following steps:
 
 1. Click on the highlight you want to copy.
 2. Click on the square-shaped icon at the top right.
@@ -187,7 +187,7 @@ You can easily get rid of highlights by deleting the highlight page. To do this:
 3. Click on **Delete Page**.
 
 ### `Add a Tag to Your Highlights`
-Adding tags to your highlights helps you quickly find highlights with the same tag. To add a tag to your highlight, take the following steps:
+Adding tags to your highlights helps you to quickly find highlights with the same tag. To add a tag to your highlight, take the following steps:
 
 1. Click on the highlight you want to add a tag to.
 2. Type the tag in the tag bar.
@@ -195,7 +195,7 @@ Adding tags to your highlights helps you quickly find highlights with the same t
 3. Press the enter key on your keyboard.
 
 ### `Add Author to Your Highlights`
-Every video you watch online has a creator, and the same with articles with authors. You can add authors and creators to your highlight. To add authors to your highlight, take the following steps:
+Every video you watch online has a creator, and the same with articles with authors. You can add authors and creators to your highlights. To add authors to your highlight, take the following steps:
 
 1. Click on the highlight you want to add an author to. 
 2. Type the name of the author in the author bar. 
@@ -220,13 +220,13 @@ You can add your thoughts and comments to your highlight. Here is how you do it:
 ## `How to Use Glasp `
 If you are new to the Glasp extension, follow the guide below to see several use cases and how to use the highlighter for text, videos (YouTube), and note-taking applications.
 ### `Customise Your Account Based on Your Preferred Topics `
-After you sign up, you can customise your account with up to ten topics to read from. 
+After you sign up, you can customise your account with up to ten topics to choose from. 
 Here is how you do it: 
 
 1. A list of topics will pop up when you sign up.
 2. Click on your ten preferred topics.
 ![image 19](./assets/7C338E79-976F-4A50-8EEF-972B63D30932.png)
-3. Click **Save**.
+3. Click **Save** at the top right.
 
 Selecting your favourite topics will customise the topics to your profile. The selected topics will appear at the top left corner of your profile page. You can change the selected topics by clicking the more option (...) on the side.
 
@@ -252,29 +252,29 @@ To highlight a YouTube video transcript, take the following steps:
 You can highlight the YouTube transcript with the four-colour option, add notes, leave comments and share the highlight with other social platforms.
 
 ### `Sharing Highlights With Note-Taking Applications`
-You can copy highlights from articles or videos and paste them into note-taking applications like Evernote, Notion, etc. To do this:
+You can copy highlights from articles or videos and paste them into a note-taking applications like Evernote, Notion, etc. To do this:
 1. Click on the article you want to copy.
 2. Click on the square-shaped icon to copy the highlight.
 ![image 21](./assets/Untitled-2023-02-22-200619.png)
-3. Paste the article on your preferred note-taking application.
+3. Paste the article into your preferred note-taking application.
 
 ## `How to Get the Best Out of Glasp`
 Glasp is a free social highlighter that helps you organise content, thoughts, and inspiration online. Even though it is straightforward, there are guidelines to get the best results from the application. 
 
-**Add Comments to Your Highlight:** Adding comments to your highlight will give your readers an insight into your opinion about the article and the online content you’ve curated. Your comments will also drive conversation and engagement from like-minded people.
+**Add Comments to Your Highlight:** Adding comments to your highlight will give your readers an insight into your opinion about the article or the video you’ve curated. Your comments will also drive conversation and engagement from like-minded people.
 
-**Add tags to your highlight:** Adding tags will help you navigate Glasp easily. It makes it easy to find highlights by searching for the tag name in the search bar.
+**Add Tags to Your Yighlight:** Adding tags will help you navigate Glasp easily. It makes it easy to find highlights by searching for the tag name in the search bar.
 
 **Each Highlight Should Include Authors:** To aid readers and researchers, appending an author to a highlight gives a more beneficial research result; it also helps you cite articles and content, and provide backup to the source of your knowledge.
 
-**Add a note to your highlight:** Including a note in your highlight will help you craft a summary for the article you are highlighting and add more meaning and clarity to your highlights.
+**Add a Note to Your highlight:** Including a note in your highlight will help you craft a summary for the article you are highlighting and add more meaning and clarity to your highlights.
 
-**Join the Glasp community:** Joining the Glasp community will provide you with the needed support to learn better and access what your friends are reading and learning. The community connects you with like-minded people to share ideas with and learn from what they share.
+**Join the Glasp Community:** Joining the Glasp community will provide you with the needed support to learn better and access what your friends are reading and learning. The community connects you with like-minded people to share ideas with and learn from what they share.
 
 ## `Conclusion`
-Glasp has continued to gain traction since its launch. The Glasp extension has become a go-to tool for productivity enthusiasts and readers who want to organise and manage knowledge. The extension enables you to learn from others while you collect your notes, which you can access easily. It will boost your productivity, keep you informed, and help you share your thoughts with friends, colleagues, and other users.   
+Glasp has continued to gain traction since its launch. The Glasp extension has become a go-to tool for productivity enthusiasts and readers who want to organise and manage knowledge. The extension enables you to learn from others while you collect your notes, which you can access easily. Glasp will boost your productivity, keep you informed, and help you share your thoughts with friends, colleagues, and other users.   
 
-The Glasp extension is free to use. It’s available for Chrome and Safari browsers. Join Glasp today and become a pro at managing and organising your content. Create a free [Glasp account](https://glasp.co) today and get started!
+The Glasp extension is free to use. It’s available for Chrome and Safari browsers. Join Glasp today and become a pro at managing and organising your content. Create a free [Glasp account](https://glasp.co) and get started!
 
 
 
