@@ -19,7 +19,7 @@
 [How to Set Up Glasp](#how-to-set-up-glasp)
 
 * [To Install the Glasp Extension](#to-install-the-glasp-extension)
-* [To Sign Up ](#to-sign-up)
+* [Sign Up ](#sign-up)
 
 [An Overview of the Glasp Dashboard](#an-overview-of-the-glasp-dashboard)
 
